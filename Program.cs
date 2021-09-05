@@ -8,8 +8,8 @@ namespace Lab_1_Part_4
         static void Main(string[] args)
         {
             List<ILab> Labs = new List<ILab>();
-            Labs.Add(new Lab_4_1());
-            // Labs.Add(new Lab_4_2());
+            // Labs.Add(new Lab_4_1());
+            Labs.Add(new Lab_4_2());
             // Labs.Add(new Lab_4_3());
             // Labs.Add(new Lab_4_4());
             // Labs.Add(new Lab_4_5());
