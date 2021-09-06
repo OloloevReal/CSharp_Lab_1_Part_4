@@ -9,9 +9,9 @@ namespace Lab_1_Part_4
         {
             List<ILab> Labs = new List<ILab>();
             // Labs.Add(new Lab_4_1());
-            Labs.Add(new Lab_4_2());
+            // Labs.Add(new Lab_4_2());
             // Labs.Add(new Lab_4_3());
-            // Labs.Add(new Lab_4_4());
+            Labs.Add(new Lab_4_4());
             // Labs.Add(new Lab_4_5());
             // Labs.Add(new Lab_4_6());
             // Labs.Add(new Lab_4_7());
