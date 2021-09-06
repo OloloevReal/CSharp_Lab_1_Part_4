@@ -8,7 +8,7 @@ namespace Lab_1_Part_4
 
         private readonly string inputText = @"Трудно было более опуститься и обнеряшиться; но Раскольникову это было даже приятно в его теперешнем состоянии духа.";
         public override void Do(){
-            Console.WriteLine("Source text: ");
+            Console.WriteLine("Entered text: ");
             Console.WriteLine(inputText);
 
             var s = Regex.Replace(inputText, @"[о]", "oOk", RegexOptions.IgnoreCase);
