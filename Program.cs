@@ -14,8 +14,8 @@ namespace Lab_1_Part_4
             // Labs.Add(new Lab_4_4());
             // Labs.Add(new Lab_4_5());
             // Labs.Add(new Lab_4_6());
-            Labs.Add(new Lab_4_7());
-            // Labs.Add(new Lab_4_8());
+            // Labs.Add(new Lab_4_7());
+            Labs.Add(new Lab_4_8());
             // Labs.Add(new Lab_4_9());
             // Labs.Add(new Lab_4_10());
             // Labs.Add(new Lab_4_11());
